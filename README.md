@@ -16,4 +16,4 @@ Este repositório reúne todo o material (incluindo códigos, imagens e demais p
 
 **Linha de Pesquisa**:	MINERAÇÃO DE DADOS DIGITAIS
 
-<img src="https://institucional.ufrrj.br/ccs/files/2019/06/rural_logo1.jpg" width="200" height="100">
+<img src="https://institucional.ufrrj.br/ccs/files/2019/06/rural_logo1.jpg" width="250" height="130">
