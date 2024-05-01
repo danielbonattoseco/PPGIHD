@@ -15,3 +15,5 @@ Este repositório reúne todo o material (incluindo códigos, imagens e demais p
 **Área**:	ANÁLISE QUALITATIVA E QUANTITATIVA DE DINÂMICAS SOCIAIS
 
 **Linha de Pesquisa**:	MINERAÇÃO DE DADOS DIGITAIS
+
+<img src="https://institucional.ufrrj.br/ccs/files/2019/06/rural_logo1.jpg" width="300" height="130">
